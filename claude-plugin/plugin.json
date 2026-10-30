@@ -1,0 +1,8 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "Barre au-dessus de la saisie : % utilisé sur les fenêtres 5 h et 7 jours, remise à zéro, contexte, alertes à 80 % et 90 %.",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": { "name": "Sylvain Delmé" }
+}
